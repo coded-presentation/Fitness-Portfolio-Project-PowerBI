@@ -1,6 +1,6 @@
 
 <div class="site-branding">
-										<h1 >AnalyzeWithkaran</h1>
+										<h1 >Analyze with Karan</h1>
 							<p class="site-description">Data Analyst Portfolio Example on Excercise Data Set</p>
 			
 	
