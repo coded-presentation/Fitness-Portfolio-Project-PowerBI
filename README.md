@@ -1,6 +1,6 @@
 
 <div class="site-branding">
-										<h1 >Fitbit Data Analysis</h1>
+	<h1 >Fitbit Data Analysis</h1>
 							<p class="site-description">This Data Analyst Portfolio-1, This Example is only for getting started with cleaning, Organizing, Exploration and Visualization in Power-BI </p>
 			
 	
