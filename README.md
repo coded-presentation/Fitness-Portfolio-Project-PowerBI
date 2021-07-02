@@ -18,10 +18,10 @@
 		<div >
 			
 
-<div ><table><tr><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=400"<td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2.png?w=565?w=400g"></tr>
-	</td><td><figure class="coblocks-gallery--figure">
-	<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model.png?w=411g">
-	<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/power-bi-applied-steps.png?w=524g"></table></div>
+<div ><table><tr><td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=400"></td><td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2.png?w=565?w=400g"></tr>
+	<figure class="coblocks-gallery--figure">
+	<td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model.png?w=411g"></td>
+	<td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/power-bi-applied-steps.png?w=524g"></td></tr></table></div>
 	
 
 
