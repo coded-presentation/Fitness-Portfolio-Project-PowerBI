@@ -1,30 +1,28 @@
 
 <div class="site-branding">
-										<h1 >Analyze with Karan</h1>
-							<p class="site-description">Data Analyst Portfolio Example on Excercise Data Set</p>
+										<h1 >Fitbit Data Analysis</h1>
+							<p class="site-description">This Data Analyst Portfolio-1, This Example is only for getting started with cleaning, Organizing, Exploration and Visualization in Power-BI </p>
 			
 	
 </ul></div>		</nav><!-- .jetpack-social-navigation -->
 				</div>
 		
 
-	
+
 	
 
 				
 <article>
 	<header >
-		<h1 class="entry-title">Data Analyst Portfolio Project-1 – Exercise Analysis</h1>	</header>
+		<h4 class="entry-title">Data Analyst Portfolio Project-1 – Fundamentals of Excel & Power-BI</h4>	</header>
 		<div >
 			
 
-
-
-
-<div class="wp-block-coblocks-gallery-masonry alignwide"><div class="coblocks-gallery has-caption-style-dark has-gutter"><ul class="has-grid-xlrg has-gutter-15 has-gutter-mobile-15" style="position: relative; height: 309.463px;"><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/power-bi-applied-steps.png?w=524g"<figure class="coblocks-gallery--figure">
-	<li class="coblocks-gallery--item" style="position: relative ; top: 12px;"><figure class="coblocks-gallery--figure"><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=400"<figure class="coblocks-gallery--figure"><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model.png?w=300g" data-id="217">
-	<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2.png?w=480?w=400g">
-		</li></li></ul></div></div>
+<div ><table><tr><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=400"<td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2.png?w=565?w=400g"></tr>
+	</td><td><figure class="coblocks-gallery--figure">
+	<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model.png?w=411g">
+	<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/power-bi-applied-steps.png?w=524g"></table></div>
+	
 
 
 
@@ -51,7 +49,7 @@
 
 
 <h2>Data Collection &amp; Table Structures</h2>
-
+<hr class="wp-block-separator is-style-wide">
 
 
 <p>The necessary data were collected and structured in Excel files. The exercise data was organized as a fact table and date &amp; activity were organized as dimension tables for filtering data.</p>
