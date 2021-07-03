@@ -1,6 +1,6 @@
 
 <div class="site-branding">
-	<h1 >Fitbit Data Analysis</h1>
+	<h1 >:watch:Fitbit Data Analysis</h1>
 							<p class="site-description">This Data Analyst Portfolio-1, This Example is only for getting started with cleaning, Organizing, Exploration and Visualization in Power-BI </p>
 			
 	
@@ -30,18 +30,16 @@
 
 
 
-<h2>Business Request &amp; User Stories </h2>
+<h2>Business Request :milkey_way:&amp; User Stories </h2>
 
 
 
-<p>The business request for this project was created by the user himself. By deciding on a business to analyze (exercise data) the following user story was derived.</p>
+<p>The business request for this project was created by karan shah. By deciding on a business processes to analyze (exercise data) the following user story was derived.</p>
 
 
 
-<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td><strong> #</strong></td><td><strong>As a (role)</strong></td><td><strong>I want (request / demand)</strong></td><td><strong>So that I (user value)</strong></td><td><strong>Acceptance Criteria</strong></td></tr><tr><td><strong>1</strong></td><td>Exercise enthusiast</td><td>I want to track my steps</td><td>To ensure I get enough activity</td><td>A Power BI dashboard <br>which lets me get an<br>easy and quick overview of my exercise data.</td></tr></tbody></table></figure>
-
-
-
+<table><tbody><tr><td><strong> #</strong></td><td><strong>As a (role)</strong></td><td><strong>Users Request  &amp need </strong></td><td><strong>So the user should know &amp he does enough activity again.:thermometer: (user value)</strong></td><td><strong>Acceptance Criteria</strong></td></tr><tr><td><strong>1</strong></td><td>Exercise enthusiast</td><td>I want to track my steps</td><td>To ensure I get enough activity</td><td>A Power BI dashboard <br>which lets me get an<br>easy and quick overview of my exercise data.</td></tr></tbody></table>
+			
 <p></p>
 </div>
 </div>
@@ -63,16 +61,11 @@
 <p>Exercise data were recorded every single date and the focus was on amount of steps. The date column is used to connect to the date dimension and Activity_FK is used to connect to the activity dimension.</p>
 
 
-
-<figure class="wp-block-image size-large is-style-default"><img data-attachment-id="217" data-permalink="https://analyzewithaliportfolio.wordpress.com/raw-data/" data-orig-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png" data-orig-size="455,576" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="raw-data" data-image-description="" data-medium-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=300"></figure>
-
-
+<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=300g">
 
 <p>Following steps were done in Power BI to transform this table to be ready for analysis purposes:</p>
 
-
-
-<ol><li>Promoted row so that the data so that the first row was used as headers.</li><li>Removed unnecessary columns.</li><li>Changed column to have the correct type (date, numbers etc.) for later use in calculations.</li></ol>
+<ol><li>-------------------------------------------------------Promoted row so that the data so that the first row was used as headers.</li><li>Removed unnecessary columns.</li><li>Changed column to have the correct type (date, numbers etc.) for later use in calculations.-------------------------------------------------------</li></ol>
 
 
 
@@ -222,5 +215,11 @@
 
 <figure class="wp-block-image size-large is-style-default"><img data-attachment-id="238" data-permalink="https://analyzewithaliportfolio.wordpress.com/dashboard-2-1/" data-orig-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png" data-orig-size="1920,1021" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="dashboard-2-1" data-image-description="" data-medium-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=300" data-large-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=825" src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=1024" alt="" class="wp-image-238" srcset="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=1024 1024w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=150 150w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=300 300w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=768 768w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png 1920w" sizes="(max-width: 740px) 100vw, 1024px"></figure>
 <!-- .content-wrapper -->
+
+<!-- .social link-wrapper -->
+<div class="menu"><ul id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-207"><a href="https://www.youtube.com/channel/UCaDh-eU-lds_d9kS976vBVw"><span class="screen-reader-text">YouTube</span><svg class="icon icon-youtube" aria-hidden="true" role="img"> <use href="#icon-youtube" xlink:href="#icon-youtube"></use> </svg></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://www.instagram.com/aliahmad.87/"><span class="screen-reader-text">Instagram</span><svg class="icon icon-instagram" aria-hidden="true" role="img"> <use href="#icon-instagram" xlink:href="#icon-instagram"></use> </svg></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="https://www.linkedin.com/in/aliahmad1987/"><span class="screen-reader-text">LinkedIn</span><svg class="icon icon-linkedin" aria-hidden="true" role="img"> <use href="#icon-linkedin" xlink:href="#icon-linkedin"></use> </svg></a></li>
+</ul></div>
 
   
