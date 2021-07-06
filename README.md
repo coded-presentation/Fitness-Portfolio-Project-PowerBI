@@ -1,49 +1,27 @@
 
 <div class="site-branding">
 	<h1 >:watch:Fitbit Data Analysis</h1>
-							<p class="site-description">This Data Analyst Portfolio-1, This Example is only for getting started with cleaning, Organizing, Exploration and Visualization in Power-BI </p>
-			
-	
-</ul></div>		</nav><!-- .jetpack-social-navigation -->
-				</div>
+<p class="site-description">This Data Analyst Portfolio-1, This Example is only for getting started with cleaning, Organizing, Exploration and Visualization in Power-BI </p>
+</ul></div>				
+ 
+<h4 class="entry-title">Data Analyst Portfolio Project-1 – Fundamentals of Excel & Power-BI</h4>	
 		
-
-
-	
-
-				
-<article>
-	<header >
-		<h4 class="entry-title">Data Analyst Portfolio Project-1 – Fundamentals of Excel & Power-BI</h4>	</header>
-		<div >
 			
 
 <div ><table><tr><td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=400"></td><td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2.png?w=565?w=400g"></tr>
 	<figure class="coblocks-gallery--figure">
 	<td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model.png?w=411g"></td>
 	<td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/power-bi-applied-steps.png?w=524g"></td></tr></table></div>
-	
-
-
 
 <hr class="wp-block-separator is-style-wide">
 
-
-
-<h2>Business Request :milkey_way:&amp; User Stories </h2>
+<h2>:milky_way: Business Request &amp; User Stories </h2>
 
 
 
 <p>The business request for this project was created by karan shah. By deciding on a business processes to analyze (exercise data) the following user story was derived.</p>
 
-
-
 <table><tbody><tr><td><strong> #</strong></td><td><strong>As a (role)</strong></td><td><strong>Users Request  &amp need </strong></td><td><strong>So the user should know &amp he does enough activity again.:thermometer: (user value)</strong></td><td><strong>Acceptance Criteria</strong></td></tr><tr><td><strong>1</strong></td><td>Exercise enthusiast</td><td>I want to track my steps</td><td>To ensure I get enough activity</td><td>A Power BI dashboard <br>which lets me get an<br>easy and quick overview of my exercise data.</td></tr></tbody></table>
-			
-<p></p>
-</div>
-</div>
-
 
 
 <h2>Data Collection &amp; Table Structures</h2>
@@ -54,9 +32,28 @@
 
 
 
-<p><strong>FACT_ Exercise</strong></p>
 
+<table> ❔ Asked The Question's at Initial Stage 
 
+<tr>	
+	<td>
+		What are the requirements to gather the fitbit data, and in order to analyse what?
+	</td>
+	<td>
+		To know What are our activities, and is that activity enough to burn the required calories sustantialy.
+	</td>
+	<td> 
+		To do discriptive analysis The time of week, my activity is at most
+	</td>
+	<td>
+		To do predictive analysis to know what will be the required activity by catagories such as walking and running
+	</td>
+	<td>
+		Analyzing the negative factors affecting which hinders consistency in porformance growth like any (injury)</td>
+</tr>
+</table>
+
+<p><strong>:heavy_exclamation_mark: Fact Exercise</strong></p>
 
 <p>Exercise data were recorded every single date and the focus was on amount of steps. The date column is used to connect to the date dimension and Activity_FK is used to connect to the activity dimension.</p>
 
@@ -65,15 +62,15 @@
 
 <p>Following steps were done in Power BI to transform this table to be ready for analysis purposes:</p>
 
-<ol><li>-------------------------------------------------------Promoted row so that the data so that the first row was used as headers.</li><li>Removed unnecessary columns.</li><li>Changed column to have the correct type (date, numbers etc.) for later use in calculations.-------------------------------------------------------</li></ol>
+<ol><li>Promoted row so that the data so that the first row was used as headers.</li><li>Removed unnecessary columns.</li><li>Changed column to have the correct type (date, numbers etc.) for later use in calculations.</li></ol>
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img data-attachment-id="228" data-permalink="https://analyzewithaliportfolio.wordpress.com/image/" data-orig-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png" data-orig-size="277,297" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image" data-image-description="" data-medium-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png?w=277" data-large-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png?w=277" src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png?w=277" alt="" class="wp-image-228" srcset="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png 277w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png?w=140 140w" sizes="(max-width: 277px) 100vw, 277px"></figure>
+<figure class="wp-block-image size-large is-style-default"><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png?w=277" alt="" class="wp-image-228" ></figure>
 
 
 
-<p><strong>DIM_Activity</strong></p>
+<p><strong>:heavy_exclamation_mark:Dim_Activity</strong></p>
 
 
 
@@ -93,11 +90,11 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img data-attachment-id="230" data-permalink="https://analyzewithaliportfolio.wordpress.com/image-1/" data-orig-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png" data-orig-size="269,291" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image-1" data-image-description="" data-medium-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png?w=269" data-large-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png?w=269" src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png?w=269" alt="" class="wp-image-230" srcset="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png 269w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png?w=139 139w" sizes="(max-width: 269px) 100vw, 269px"></figure>
+<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png">
 
 
 
-<p><strong>DIM_Date</strong></p>
+<p><strong>:heavy_exclamation_mark:DIM_Date</strong></p>
 
 
 
@@ -109,9 +106,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img data-attachment-id="233" data-permalink="https://analyzewithaliportfolio.wordpress.com/image-2/" data-orig-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png" data-orig-size="278,354" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image-2" data-image-description="" data-medium-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png?w=236" data-large-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png?w=278" src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png?w=278" alt="" class="wp-image-233" srcset="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png 278w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png?w=118 118w" sizes="(max-width: 278px) 100vw, 278px"></figure>
-
-
+<img src=https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png">
 
 <p></p>
 
@@ -133,7 +128,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img data-attachment-id="234" data-permalink="https://analyzewithaliportfolio.wordpress.com/data-model-1/" data-orig-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png" data-orig-size="787,699" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="data-model-1" data-image-description="" data-medium-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png?w=300" data-large-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png?w=787" src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png?w=787" alt="" class="wp-image-234" srcset="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png 787w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png?w=150 150w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png?w=300 300w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png?w=768 768w" sizes="(max-width: 787px) 100vw, 787px"></figure>
+<figure class="wp-block-image size-large is-style-default"><img src ="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png" 
 
 
 
@@ -205,7 +200,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href="https://app.powerbi.com/view?r=eyJrIjoiYTU3ZTFhZjgtNTY3ZC00MWI1LWE1YmYtMTU1OTQxOTIyMjFjIiwidCI6IjMzYTJhMWQwLTI1MDgtNGJkNC05M2Y0LWRlYmRhMDM1MmFmYyIsImMiOjh9" target="_blank"><img data-attachment-id="236" data-permalink="https://analyzewithaliportfolio.wordpress.com/dashboard-1-2/" data-orig-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png" data-orig-size="1920,1019" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="dashboard-1" data-image-description="" data-medium-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=300" data-large-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=825" src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024" alt="" class="wp-image-236" srcset="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024 1024w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=150 150w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=300 300w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=768 768w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px"></a></figure>
+<figure class="wp-block-image size-large is-style-default"><a href=""><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024"> </a></figure>
 
 
 
@@ -213,13 +208,13 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img data-attachment-id="238" data-permalink="https://analyzewithaliportfolio.wordpress.com/dashboard-2-1/" data-orig-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png" data-orig-size="1920,1021" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="dashboard-2-1" data-image-description="" data-medium-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=300" data-large-file="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=825" src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=1024" alt="" class="wp-image-238" srcset="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=1024 1024w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=150 150w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=300 300w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=768 768w, https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png 1920w" sizes="(max-width: 740px) 100vw, 1024px"></figure>
+<figure> <a href="" <img  src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=1024"</a></figure>
 <!-- .content-wrapper -->
 
 <!-- .social link-wrapper -->
-<div class="menu"><ul id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-207"><a href="https://www.youtube.com/channel/UCaDh-eU-lds_d9kS976vBVw"><span class="screen-reader-text">YouTube</span><svg class="icon icon-youtube" aria-hidden="true" role="img"> <use href="#icon-youtube" xlink:href="#icon-youtube"></use> </svg></a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://www.instagram.com/aliahmad.87/"><span class="screen-reader-text">Instagram</span><svg class="icon icon-instagram" aria-hidden="true" role="img"> <use href="#icon-instagram" xlink:href="#icon-instagram"></use> </svg></a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="https://www.linkedin.com/in/aliahmad1987/"><span class="screen-reader-text">LinkedIn</span><svg class="icon icon-linkedin" aria-hidden="true" role="img"> <use href="#icon-linkedin" xlink:href="#icon-linkedin"></use> </svg></a></li>
+<div class="menu"><ul id="menu-social">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://www.linkedin.com/in/karan-shah-020b4baa"><span class="screen-reader-text">Instagram</span><svg class="icon icon-instagram" aria-hidden="true" role="img"> <use href="#icon-instagram" xlink:href="#icon-instagram"></use> </svg></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="https://www.instagram.com/karanzshah/"><span class="screen-reader-text">LinkedIn</span><svg class="icon icon-linkedin" aria-hidden="true" role="img"> <use href="#icon-linkedin" xlink:href="#icon-linkedin"></use> </svg></a></li>
 </ul></div>
 
   
