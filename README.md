@@ -242,23 +242,23 @@
 
 
 
-<p>The finish report consists of two different dashboards. One is more of a basic version, while the second version contains more advanced visualizations. To enable these visualizations the calculation language DAX (Data Analysis Expressions) were used.</p>
+<p>The finish report consists of one dashboard.<!-- One is more of a basic version, while the second version contains more advanced visualizations.--> To enable these visualizations the calculation language DAX (Data Analysis Expressions) were used.</p>
 
 
 
-<p><strong>Click the picture to to open the dashboard and try it out!</strong></p>
+<!--<p><strong>Click the picture to to open the dashboard and try it out!</strong></p>-->
 
 
 
-<p><strong>Basic Version:</strong></p>
+<!--<p><strong>Basic Version:</strong></p>-->
 
 
 
-<!--<figure class="wp-block-image size-large is-style-default"><a href=""><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024"> </a></figure>-->
+<figure class="wp-block-image size-large is-style-default"><a href=""><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024"> </a></figure>
 
 
 
-<p><strong>Advanced Version:</strong></p>
+<!--<p><strong>Advanced Version:</strong></p>-->
 
 
 
