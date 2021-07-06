@@ -66,7 +66,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png?w=277" alt="" class="wp-image-228" ></figure>
+<figure class="wp-block-image size-large is-style-default"><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image.png?w=560" alt="" class="wp-image-228" ></figure>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<figure class="wp-block-image <img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data-2.png?w=714" sizes="(max-width: 714px) 100vw, 714px"></figure>
+  <img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data-2.png?w=560g">
 
 
 
@@ -90,7 +90,7 @@
 
 
 
-<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png">
+<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-1.png?w=480g">
 
 
 
@@ -106,7 +106,7 @@
 
 
 
-<img src=https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png">
+<img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/image-2.png?w=480g">
 
 <p></p>
 
@@ -128,7 +128,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><img src ="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png" 
+<figure class="wp-block-image size-large is-style-default"><img src ="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model-1.png?w=480g" >
 
 
 
@@ -175,7 +175,7 @@
 	[Total Steps], DIM_Activity[ActivityName] = “Running”
 	)
 ```
-<p><strong>Steps (Walking)</strong>   – This is a calculation to isolate the Total Steps measure by filtering it by the “Walking Activity”:<br></p>```	CALCULATE
+<p><strong>Steps (Walking)</strong>   – This is a calculation to isolate the Total Steps measure by filtering it by the “Walking Activity”:<br></p>	CALCULATE
 ```	CALCULATE
 	(
 	[Total Steps], DIM_Activity[ActivityName] = “Walking”
