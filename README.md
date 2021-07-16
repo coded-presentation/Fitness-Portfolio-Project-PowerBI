@@ -246,9 +246,9 @@
 
 <hr class="wp-block-separator is-style-wide">
 
+-->
 
-
-<p></p>
+<!--<p></p>
 
 
 
@@ -268,7 +268,7 @@
 
 
 
-<figure class="wp-block-image size-large is-style-default"><a href=""><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024"> </a></figure>
+<!--<figure class="wp-block-image size-large is-style-default"><a href=""><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024"> </a></figure>
 
 
 
@@ -277,7 +277,7 @@
 
 
  <!--<figure> <a href="" <img  src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=1024"</a></figure>-->
- <!--.content-wrapper -->
+ <!--.content-wrapper 
 
 <!-- .social link-wrapper -->
 <div class="menu"><ul id="menu-social">
