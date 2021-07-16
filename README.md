@@ -246,17 +246,17 @@
 
 <hr class="wp-block-separator is-style-wide">
 
--->
-
+<h3>Conclusion:</h3>
+<p> In This portfolio i have concluded the basic dashboard using DAX (Data Analysis Expression) language.</p>
 <!--<p></p>
 
 
 
 <h2>Exercise Analysis Dashboard</h2>
 
+<p>
 
-
-<p>The finish report consists of one dashboard.<!-- One is more of a basic version, while the second version contains more advanced visualizations.--> To enable these visualizations the calculation language DAX (Data Analysis Expressions) were used.</p>
+<!--<p>The finish report consists of one dashboard.<!-- One is more of a basic version, while the second version contains more advanced visualizations. To enable these visualizations the calculation language DAX (Data Analysis Expressions) were used.</p>-->
 
 
 
@@ -268,7 +268,7 @@
 
 
 
-<!--<figure class="wp-block-image size-large is-style-default"><a href=""><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024"> </a></figure>
+<!--<figure class="wp-block-image size-large is-style-default"><a href=""><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024"> </a></figure>-->
 
 
 
