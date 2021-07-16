@@ -22,7 +22,7 @@
             Computer Engineer / Data Analyst / Pursuing Google Data Analytics Professional Certificate
 </h4>
 
-<div ><table><tr><td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=400"></td><td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2.png?w=565?w=400g"></tr>
+<div ><table><tr><td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/raw-data.png?w=400"></td><td><img src="https://bn1305files.storage.live.com/y4mDjHMGGe6anDjevgFx9XvmdKpe-tVLiAD4ZIo_C_b3Y5ldXbgrKRZNFuG4JQabCx7tR1NZtawvbNdvvnAD83uNO2xeOTMy4iIomPK8GwwJwuGF0agnsPb7E_J6sm_ImQaotTxkoAQ6eHvJKMNGRpA2RwcmXidZOpmn0Jrv-cDCs-bRLw9B-GkAGmxmd134GkF?width=4205&height=299&cropmode=none"></tr>
 	<figure class="coblocks-gallery--figure">
 	<td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/data-model.png?w=411g"></td>
 	<td><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/power-bi-applied-steps.png?w=524g"></td></tr></table></div>
@@ -266,7 +266,8 @@
 
 <!--<p><strong>Basic Version:</strong></p>-->
 
-
+<a href="https://app.powerbi.com/reportEmbed?reportId=f689f098-92ae-4cfb-8499-169f6b1caab6&autoAuth=true&ctid=51a0a69c-0e4f-4b3d-b642-12e013198635&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D">
+<img src="https://bn1305files.storage.live.com/y4mGXQyD5Srf86vHIK_kroDyIvP2Je16mSfN_M1BZa0OzsZlVwfoCBgV7qxa10BSeATmBHoAnZzPlQszMevL3LREkGs8dJZC48gmFTHBZZsxbBO5GqxsKnbrmbmRnEa_-fOsttpVRsbk9HP_fOet1zcblfOUe9xFMU8WUA8AqF3hP2nYJts3-bkjFUVclq7fFMp?width=660&height=380&cropmode=none"></a>
 
 <!--<figure class="wp-block-image size-large is-style-default"><a href=""><img src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-1.png?w=1024"> </a></figure>-->
 
