@@ -168,7 +168,7 @@
 <p><strong>Total Steps</strong> – This is a simple SUM function around the Steps column: 
 	
 ```
-	SUM( FACT_Activity[Steps] )</p>
+	SUM( FACT_Activity[Steps] )
 ```
 
 
