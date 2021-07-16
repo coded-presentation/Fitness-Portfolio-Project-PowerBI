@@ -42,7 +42,7 @@
 <hr class="wp-block-separator is-style-wide">
 
 
-<p>The necessary data were collected and structured in Excel files. The exercise data was organized as a fact table and date &amp; activity were organized as dimension tables for filtering data.</p>
+<p>The necessary data was collected and structured in Excel files. The exercise data was organized as a Fact_Activity and Dim_Date  by defining the relation between the Activity_name and Date.</p>
 
 
 
