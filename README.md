@@ -47,20 +47,26 @@
 
 
 
-<table> ❔ Asked The Question's at Initial Stage 
+<table> ❔The Question's at initial stage,& Answered in consolidation
 
 <tr>	
 	<td>
 		What are the requirements to gather the fitbit data, and in order to analyse what?
+		<tr><td>&nbsp</td></tr>
+		<tr><td>The requriments of complete data without any kind of anomalies, The regular exercise in the day is enough to achieve the fitness goals</td></tr>
+		<tr><td>&nbsp</td></tr>
 	</td>
 	<td>
 		To know What are our activities, and is that activity enough to burn the required calories sustantialy.
+		<tr><td>&nbsp</td></tr>
 	</td>
 	<td> 
 		To do discriptive analysis The time of week, my activity is at most
+		<tr><td>&nbsp</td></tr>
 	</td>
 	<td>
 		To do predictive analysis to know what will be the required activity by catagories such as walking and running
+		<tr><td>&nbsp</td></tr>
 	</td>
 	<td>
 		Analyzing the negative factors affecting which hinders consistency in porformance growth like any (injury)</td>
