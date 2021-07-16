@@ -276,13 +276,13 @@
 
 
 
- <figure> <a href="" <img  src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=1024"</a></figure>
+ <!--<figure> <a href="" <img  src="https://analyzewithaliportfolio.files.wordpress.com/2021/05/dashboard-2-1.png?w=1024"</a></figure>-->
  <!--.content-wrapper -->
 
 <!-- .social link-wrapper -->
-<!--<div class="menu"><ul id="menu-social">
+<div class="menu"><ul id="menu-social">
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://www.linkedin.com/in/karan-shah-020b4baa"><span class="screen-reader-text">Instagram</span><svg class="icon icon-instagram" aria-hidden="true" role="img"> <use href="#icon-instagram" xlink:href="#icon-instagram"></use> </svg></a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47"><a href="https://www.instagram.com/karanzshah/"><span class="screen-reader-text">LinkedIn</span><svg class="icon icon-linkedin" aria-hidden="true" role="img"> <use href="#icon-linkedin" xlink:href="#icon-linkedin"></use> </svg></a></li>
-</ul></div>-->
+</ul></div>
 
   
